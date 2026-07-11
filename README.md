@@ -10,7 +10,7 @@ I build practical software, secure networks, and automation tools that solve rea
 
 🛠 Tech
 
-Python • Flask • HTML • CSS • JavaScript • SQLite • Git • Linux • OPNsense
+Python • Flask • HTML • CSS • GO • JavaScript • SQLite • Git • Linux • OPNsense
 
 🚀 Currently Working On
 🏥 Diagnostic Management System
