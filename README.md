@@ -2,7 +2,7 @@
 
 <img width="363" height="270" alt="giphy" src="https://github.com/user-attachments/assets/4b6d0fb4-5622-42ab-a620-738cf354f3cb" />
 
-< I'm Reyad 👋
+I'm Reyad 👋
 
 💻 Full Stack Developer | 🌐 Networking Enthusiast | 🤖 AI Builder
 
@@ -17,5 +17,4 @@ Python • Flask • HTML • CSS • JavaScript • SQLite • Git • Linux �
 🌐 Homelab & Network Security
 🤖 AI Automation Projects
 
-Building. Learning. Improving.!--
--->
+Building. Learning. Improving.!
