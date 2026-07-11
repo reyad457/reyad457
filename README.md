@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Uploading giphy.gif…]()
+
+<img width="363" height="270" alt="giphy" src="https://github.com/user-attachments/assets/4b6d0fb4-5622-42ab-a620-738cf354f3cb" />
 
 < I'm Reyad 👋
 
