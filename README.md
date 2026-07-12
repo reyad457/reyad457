@@ -16,5 +16,8 @@ Python • Flask • HTML • CSS • GO • JavaScript • SQLite • Git • L
 🏥 Diagnostic Management System
 🌐 Homelab & Network Security
 🤖 AI Automation Projects
+                                 🌍 Connect With Me
+
+<p align="left"> <a href="https://github.com/reyad457"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://linkedin.com/in/arfatul-islam-reyad-53bsa"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://facebook.com/x00reyad"><img src="https://skillicons.dev/icons?i=twitter"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a> </p>
 
 Building. Learning. Improving.!
