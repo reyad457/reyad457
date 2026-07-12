@@ -22,6 +22,6 @@ Python • Flask • HTML • CSS • GO • JavaScript • SQLite • Git • L
 
 📊 Activity Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyad457&theme=tokyo-night"/> </p>
 
 Building. Learning. Improving.!
