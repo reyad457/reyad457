@@ -20,4 +20,8 @@ Python • Flask • HTML • CSS • GO • JavaScript • SQLite • Git • L
 
 <p align="left"> <a href="https://github.com/reyad457"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://linkedin.com/in/arfatul-islam-reyad-53bsa"><img src="https://skillicons.dev/icons?i=linkedin"/></a>  </p>
 
+📊 Activity Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/> </p>
+
 Building. Learning. Improving.!
