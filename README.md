@@ -25,6 +25,6 @@ I build practical software, secure networks, and automation tools that solve rea
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=reyad457&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=reyad457&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=reyad457&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
